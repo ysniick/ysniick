@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **ysniick/ysniick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Gabriel 👋
+
+I'm a Computer Science student interested in IT, cybersecurity, networking, and systems administration.
+
+Currently building hands-on experience through homelab projects, networking labs, and cybersecurity training.
+
+## 📂 Featured Projects
+
+*Projects coming soon.*
+
+## 🏆 Certifications
+
+* **Google IT Support Professional Certificate**
+* **CompTIA Network+** — In Progress
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,linux,git,github" alt="Java, Linux, Git, GitHub" />
+</p>
+
+## 📫 Contact
+
+- 📧 [Email Me](mailto:gabriel2006udia@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-araujo-424682369/)
