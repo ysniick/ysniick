@@ -23,7 +23,11 @@ Currently building hands-on experience through homelab projects, networking labs
 
 ## 📂 Featured Projects
 
-*Projects coming soon.*
+### 🎫 [IT Support & Ticketing Home Lab](https://github.com/ysniick/it-support-ticketing-lab)
+
+Built a self-hosted help desk environment with **osTicket, Ubuntu Server, Docker, MariaDB, and Proxmox VE** to practice IT support, networking, and structured troubleshooting.
+
+**Skills:** Linux • Docker • Networking • Troubleshooting • IT Support
 
 ## 🏆 Certifications
 
